@@ -1,0 +1,10 @@
+{
+  "id": "psych-companion",
+  "name": "Psych Companion",
+  "version": "0.1.0",
+  "author": "harrylabsj",
+  "description": "心理陪伴助手 - 情绪记录、压力评估、调节建议，危机时刻的专业转介支持",
+  "status": "dev",
+  "tags": ["psychology", "emotion", "wellbeing", "support"],
+  "workspace": "psych-companion"
+}
